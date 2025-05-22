@@ -21,7 +21,7 @@
     "**/.server/**/*.tsx",
     "**/.client/**/*.ts",
     "**/.client/**/*.tsx"
-  ],
+, "tests/components/calculator.spec.tsx"  ],
   "exclude": [
     "out-tsc",
     "dist",

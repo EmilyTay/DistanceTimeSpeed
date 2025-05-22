@@ -2,7 +2,9 @@
   "name": "@distance-time-speed/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "vitest"
+  },
   "private": true,
   "dependencies": {
     "@react-router/node": "^7.2.0",
